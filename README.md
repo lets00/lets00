@@ -3,7 +3,7 @@
 # $ whoami
 
 I'm a System Engineer working at [Zup Innovation](https://www.zup.com.br/). 
-In my free time I like to play acoustic guitar, read good books and drink with friends.
+In my free time I like to play acoustic guitar, read good books and dring beer with friends.
 
 ## I like working with these technologies 🛠
 
