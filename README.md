@@ -2,8 +2,8 @@
 
 # $ whoami
 
-I'm a System Engineer working at [Zup Innovation](https://www.zup.com.br/). 
-In my free time I like to play acoustic guitar, read good books and drink beer with friends.
+I'm a professor at IFPE(Federal Institute of Pernambuco)-Garanhuns and System developer for love.
+In my free time I like to study new techs, play acoustic guitar and drink beer with friends.
 
 ## I like working with these technologies 🛠
 
