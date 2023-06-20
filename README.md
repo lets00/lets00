@@ -2,7 +2,7 @@
 
 # $ whoami
 
-I'm a professor at IFPE(Federal Institute of Pernambuco)-Garanhuns and System developer for love.
+I'm a lecturer at IFPE(Federal Institute of Pernambuco)-Garanhuns and System developer for love.
 In my free time I like to study new techs, play acoustic guitar and drink beer with friends.
 
 ## I like working with these technologies 🛠
@@ -36,7 +36,7 @@ In my free time I like to study new techs, play acoustic guitar and drink beer w
 ## I'm currently learning 🌱
 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
 ## Analytics ⚙️
 
