@@ -3,7 +3,7 @@
 # $ whoami
 
 I'm a lecturer at IFPE(Federal Institute of Pernambuco)-Garanhuns and System developer for love.
-In my free time I like to study new techs, play acoustic guitar and drink beer with friends.
+In my free time I like to study new techs, play acoustic guitar and read good books.
 
 ## I like working with these technologies 🛠
 
